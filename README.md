@@ -1,7 +1,5 @@
 # cheats_for_PUBG
-<hr>
 <h1 align="center" style="color:Black">cheats for PUBG</h1>
-<hr>
 Benefits: 
 - there is no recoil animation after the shot (other players are not suspicious of you, as they will see animation displayed while watching you) 
 - no recoil 
