@@ -1,6 +1,6 @@
 # cheats_for_PUBG
 
-Benefits: 76e369257240ded4b1c059cf20e8d9a4
+Benefits: 
 - there is no recoil animation after the shot (other players are not suspicious of you, as they will see animation displayed while watching you) 
 - no recoil 
 - no grass (+ 5%-20% fps) 
