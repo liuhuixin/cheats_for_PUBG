@@ -13,6 +13,7 @@ You can buy through my telegram: https://t.me/LizardRoot
 After payment you get a complete installation guide for cheat mods to bypass anti-cheat and recommendations from me. 
 <hr>
 Screenshots: 
+
 https://github.com/LizardRoot/cheats_for_PUBG/blob/master/screenshots/1.jpg
 https://github.com/LizardRoot/cheats_for_PUBG/blob/master/screenshots/2.jpg
 <hr>
