@@ -13,13 +13,12 @@ Benefits:
 
 You can buy through my telegram: https://t.me/LizardRoot
 
-After payment you get a complete installation guide for cheat mods to bypass anti-cheats and recommendations from me. You must download the archive <a href="http://">"PUBG.rar"</a>, the password from which I will send you.
+After payment you get a complete installation guide for cheat mods to bypass anti-cheats and recommendations from me. You must download the archive <a href="https://github.com/LizardRoot/cheats_for_PUBG/blob/master/PUBG.rar">"PUBG.rar"</a>, the password from which I will send you.
 
 When you buy, you will receive constant updates from me by mail, if necessary.
 <hr>
 Screenshots: 
 
 https://github.com/LizardRoot/cheats_for_PUBG/blob/master/screenshots/1.jpg
-https://github.com/LizardRoot/cheats_for_PUBG/blob/master/screenshots/2.jpg
 <hr>
 View my match statistics: https://pubg.op.gg/user/evil_root
