@@ -11,7 +11,6 @@ Benefits:
 - bypasses anti-cheat 
 - works at the time of loading
 - the ability to view through the walls when the character comes to her point-blank
-point-blank
 - optimization of sounds (steps + 200%, no red zone)
 - no smoke and flash action
 Functions can be selected individually for you.
