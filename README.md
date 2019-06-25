@@ -16,7 +16,7 @@ point-blank
 - no smoke and flash action
 Functions can be selected individually for you.
 
-<h1>Price: 9$</h1>
+<h1>Price: 15$</h1>
 
 You can buy through my telegram: https://t.me/LizardRoot
 
