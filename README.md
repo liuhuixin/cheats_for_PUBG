@@ -1,13 +1,20 @@
 # cheats_for_PUBG
 
+<h1>Updated: 06/20/2019</h1>
+
 Benefits: 
 - there is no recoil animation after the shot (other players are not suspicious of you, as they will see animation displayed while watching you) 
-- no recoil 
+- no recoil (-40% , -60% , -80%)
 - no grass (+ 5%-20% fps) 
 - color of the projectile, clothing and personage 
 - player sigh animation is disabled 
 - bypasses anti-cheat 
 - works at the time of loading
+- the ability to view through the walls when the character comes to her point-blank
+point-blank
+- optimization of sounds (steps + 200%, no red zone)
+- no smoke and flash action
+Functions can be selected individually for you.
 
 <h1>Price: 9$</h1>
 
