@@ -13,6 +13,7 @@ Benefits:
 - the ability to view through the walls when the character comes to her point-blank
 - optimization of sounds (steps + 200%, no red zone)
 - no smoke and flash action
+
 Functions can be selected individually for you.
 
 <h1>Price: 15$</h1>
