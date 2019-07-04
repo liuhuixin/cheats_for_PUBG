@@ -14,8 +14,6 @@ Benefits:
 
 Functions can be selected individually for you.
 
-<h1>Price: 15$</h1>
-
 You can buy through my telegram: https://t.me/LizardRoot
 
 After payment you get a complete installation guide for cheat mods to bypass anti-cheats and recommendations from me. You must download the archive <a href="https://github.com/LizardRoot/cheats_for_PUBG/blob/master/PUBG.rar">"PUBG.rar"</a>, the password from which I will send you.
