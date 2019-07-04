@@ -1,6 +1,6 @@
 # cheats_for_PUBG
 
-<h1>Updated: 06/20/2019</h1>
+<h1>Updated: 07/04/2019</h1>
 
 Benefits: 
 - there is no recoil animation after the shot (other players are not suspicious of you, as they will see animation displayed while watching you) 
