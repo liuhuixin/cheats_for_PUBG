@@ -8,8 +8,6 @@ Benefits:
 - no grass (+ 5%-20% fps) 
 - color of the projectile, clothing and personage 
 - player sigh animation is disabled 
-- bypasses anti-cheat 
-- works at the time of loading
 - the ability to view through the walls when the character comes to her point-blank
 - optimization of sounds (steps + 200%, no red zone)
 - no smoke and flash action
